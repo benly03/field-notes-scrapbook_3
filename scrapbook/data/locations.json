@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Rancho Cucamonga",
+    "name": "Rancho Cucamonga, CA",
+    "region": "United States",
+    "lat": 34.10700984236069,
+    "lng": -117.54574555882242,
+    "zoom": 12,
+    "date": "2025-06",
+    "note": "First time you came to my hometown and met my family!",
+    "photos": [
+      { "src": "images/Rancho Cucamonga/IMG_0270.jpg", "caption": "Rancho Cucamonga Lunar New Year Festival" },
+      { "src": "images/Rancho Cucamonga/IMG_2267.jpg", "caption": "Bombastic Cinnamon rolls, but we made it with moldy cream cheese..." }
+    ]
+  },
+  {
+    "id": "New York",
+    "name": "New York, NY",
+    "region": "United States",
+    "lat": 40.74881,
+    "lng": -73.985428,
+    "zoom": 13,
+    "date": "2026-02",
+    "note": "Our first trip together! I fell in love you even more everyday of this trip.",
+    "photos": [
+      { "src": "images/New York/IMG_3957.jpg", "caption": "Our flight to NY! We got saved since the guy swapped seats with you." },
+      { "src": "images/New York/IMG_3621.jpg", "caption": "First bagels in NY, still thinking about that scallion cream cheese." },
+      { "src": "images/New York/IMG_3967.jpg", "caption": "Grand Central Station!" },
+      { "src": "images/New York/IMG_3970.jpg", "caption": "New York Public Library was absolute peak."},
+      { "src": "images/New York/IMG_3640.jpg", "caption": "Molly the dog was hard of hearing..." },
+      { "src": "images/New York/IMG_3642.jpg", "caption": "PASTRAMI!!!" },
+      { "src": "images/New York/DSC01544.jpg", "caption": "This picture is just funny" }
+    ]
+  },
+  {
+    "id": "La Jolla",
+    "name": "La Jolla, CA",
+    "region": "United States",
+    "lat": 32.832457,
+    "lng": -117.271420,
+    "zoom": 13,
+    "date": "2022-10",
+    "note": "This is where we met! 2022 at UC San Diego.",
+    "photos": [
+      { "src": "images/San Diego/IMG_7593.jpg", "caption": "Wind and Sea Beach: First date with Taco Stand burritos and I activated anti-theft in my car :(" },
+      { "src": "images/San Diego/IMG_2613.jpg", "caption": "Mira Mesa Apt: The bouquet I made to ask you to be my girlfriend." },
+      { "src": "images/San Diego/IMG_2614.jpg", "caption": "Dinner at Moment Sushi. 10/10 handrolls."},
+      { "src": "images/San Diego/IMG_2619.jpg", "caption": "Earl Grey Creme Brulee!"},
+      { "src": "images/San Diego/IMG_3187.jpg", "caption": "San Diego Museum of Modern Art"},
+      { "src": "images/San Diego/IMG_0904.jpg", "caption": "Beautiful sunset and 10/10 picture. Nothing else to say"},
+      { "src": "images/San Diego/IMG_3198.jpg", "caption": "The one thing I was genuinely excited to see. - Ben" },
+      { "src": "images/San Diego/IMG_3202.jpg", "caption": "Really good Thai food for La Jolla with really good curry."},
+      { "src": "images/San Diego/IMG_3206.jpg", "caption": "I thought it was going to be 4 mile hike round trip..."},
+      { "src": "images/San Diego/IMG_3218.jpg", "caption": "You somehow managed to drag me there and back all 8 miles."},
+      { "src": "images/San Diego/IMG_2040.jpg", "caption": "Our gingerbread truck with the Christmas truck!"}
+    ]
+  }
+]

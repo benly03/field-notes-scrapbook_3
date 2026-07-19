@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Field Notes — A Travel Scrapbook</title>
+<meta name="description" content="A personal map of places visited, with photos pinned to each stop.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-left">
+    <span class="eyebrow">Est. <span id="firstYear">—</span></span>
+    <h1>2025 BC - Present</h1>
+  </div>
+  <div class="masthead-right">
+    <span class="stat" id="stopCount">0 stops logged</span>
+    <button id="listToggle" class="ghost-btn" aria-expanded="false">Index</button>
+  </div>
+</header>
+
+<div id="map"></div>
+
+<!-- Index / list of all locations -->
+<aside id="indexPanel" class="index-panel" aria-hidden="true">
+  <div class="index-panel-head">
+    <h2>Logbook</h2>
+    <button id="indexClose" class="icon-btn" aria-label="Close index">×</button>
+  </div>
+  <ul id="indexList" class="index-list"></ul>
+</aside>
+
+<!-- Location detail / photo panel -->
+<section id="detailPanel" class="detail-panel" aria-hidden="true">
+  <button id="detailClose" class="icon-btn detail-close" aria-label="Close">×</button>
+
+  <div class="postmark" id="postmark">
+    <svg viewBox="0 0 120 120" class="postmark-svg">
+      <circle cx="60" cy="60" r="56" />
+      <circle cx="60" cy="60" r="46" />
+      <text class="postmark-date" x="60" y="66" text-anchor="middle" id="postmarkDate">—</text>
+    </svg>
+  </div>
+
+  <div class="detail-head">
+    <span class="eyebrow" id="detailEyebrow">Location</span>
+    <h2 id="detailTitle">—</h2>
+    <p class="detail-meta">
+      <span id="detailDate">—</span> · <span id="detailCoords" class="mono">—</span>
+    </p>
+    <p class="detail-note" id="detailNote"></p>
+  </div>
+
+  <div class="detail-gallery" id="detailGallery"></div>
+</section>
+
+<!-- Lightbox -->
+<div id="lightbox" class="lightbox" aria-hidden="true">
+  <button id="lightboxClose" class="icon-btn lightbox-close" aria-label="Close photo">×</button>
+  <button id="lightboxPrev" class="lightbox-nav lightbox-prev" aria-label="Previous photo">‹</button>
+  <img id="lightboxImg" src="" alt="">
+  <button id="lightboxNext" class="lightbox-nav lightbox-next" aria-label="Next photo">›</button>
+  <p id="lightboxCaption" class="lightbox-caption"></p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.1/dist/globe.gl.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

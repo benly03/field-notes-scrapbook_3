@@ -9,8 +9,38 @@
     "date": "2025-06",
     "note": "First time you came to my hometown and met my family!",
     "photos": [
-      { "src": "images/Rancho Cucamonga/IMG_0270.jpg", "caption": "Rancho Cucamonga Lunar New Year Festival" },
-      { "src": "images/Rancho Cucamonga/IMG_2267.jpg", "caption": "Bombastic Cinnamon rolls, but we made it with moldy cream cheese..." }
+      { "src": "images/Rancho Cucamonga/IMG_0270.jpg", "caption": "Rancho Cucamonga Lunar New Year Festival"},
+      { "src": "images/Rancho Cucamonga/IMG_2267.jpg", "caption": "Bombastic Cinnamon rolls, but we made it with moldy cream cheese..."}
+    ]
+  },
+  {
+    "id": "Anaheim",
+    "name": "Anaheim, CA",
+    "region": "United States",
+    "lat": 33.8347516,
+    "lng": -117.911732,
+    "zoom": 12,
+    "date": "2026-05",
+    "note": "We celebrated our first year anniversary and had our first Disneyland Trip!",
+    "photos": [
+      { "src": "images/Anaheim/IMG_4911.jpg", "caption": "Lol no picture of actual anniversary dinner, but Salt & Straw desert!"},
+      { "src": "images/Anaheim/IMG_4953.jpg", "caption": "ROPE DROP SPACE MOUNTAIN!!"},
+      { "src": "images/Anaheim/IMG_4961.jpg", "caption": "Wall-E Drawing Class"},
+      { "src": "images/Anaheim/IMG_4965.jpg", "caption": "I forgot the name of this dish, but super good 8.5/10"},
+      { "src": "images/Anaheim/IMG_4481.jpg", "caption": "I think this is the first picture I took with your family :)"}
+    ]
+  },
+  {
+    "id": "Los Angeles",
+    "name": "Los Angeles, CA",
+    "region": "United States",
+    "lat": 34.0536909,
+    "lng": -118.242766,
+    "zoom": 12,
+    "date": "2026-04",
+    "note": "This is the land of your people. This is not the land. This is Glendale.",
+    "photos": [
+      { "src": "images/LA/IMG_4911.jpg", "caption": "Lol no picture of actual anniversary dinner, but Salt & Straw desert!"},
     ]
   },
   {
@@ -23,13 +53,13 @@
     "date": "2026-02",
     "note": "Our first trip together! I fell in love you even more everyday of this trip.",
     "photos": [
-      { "src": "images/New York/IMG_3957.jpg", "caption": "Our flight to NY! We got saved since the guy swapped seats with you." },
-      { "src": "images/New York/IMG_3621.jpg", "caption": "First bagels in NY, still thinking about that scallion cream cheese." },
-      { "src": "images/New York/IMG_3967.jpg", "caption": "Grand Central Station!" },
+      { "src": "images/New York/IMG_3957.jpg", "caption": "Our flight to NY! We got saved since the guy swapped seats with you."},
+      { "src": "images/New York/IMG_3621.jpg", "caption": "First bagels in NY, still thinking about that scallion cream cheese."},
+      { "src": "images/New York/IMG_3967.jpg", "caption": "Grand Central Station!"},
       { "src": "images/New York/IMG_3970.jpg", "caption": "New York Public Library was absolute peak."},
-      { "src": "images/New York/IMG_3640.jpg", "caption": "Molly the dog was hard of hearing..." },
-      { "src": "images/New York/IMG_3642.jpg", "caption": "PASTRAMI!!!" },
-      { "src": "images/New York/DSC01544.jpg", "caption": "This picture is just funny" }
+      { "src": "images/New York/IMG_3640.jpg", "caption": "Molly the dog was hard of hearing..."},
+      { "src": "images/New York/IMG_3642.jpg", "caption": "PASTRAMI!!!"},
+      { "src": "images/New York/DSC01544.jpg", "caption": "This picture is just funny"}
     ]
   },
   {
@@ -39,11 +69,11 @@
     "lat": 32.832457,
     "lng": -117.271420,
     "zoom": 13,
-    "date": "2022-10",
+    "date": "2025-04",
     "note": "This is where we met! 2022 at UC San Diego.",
     "photos": [
-      { "src": "images/San Diego/IMG_7593.jpg", "caption": "Wind and Sea Beach: First date with Taco Stand burritos and I activated anti-theft in my car :(" },
-      { "src": "images/San Diego/IMG_2613.jpg", "caption": "Mira Mesa Apt: The bouquet I made to ask you to be my girlfriend." },
+      { "src": "images/San Diego/IMG_7593.jpg", "caption": "Wind and Sea Beach: First date with Taco Stand burritos and I activated anti-theft in my car :("},
+      { "src": "images/San Diego/IMG_2613.jpg", "caption": "Mira Mesa Apt: The bouquet I made to ask you to be my girlfriend."},
       { "src": "images/San Diego/IMG_2614.jpg", "caption": "Dinner at Moment Sushi. 10/10 handrolls."},
       { "src": "images/San Diego/IMG_2619.jpg", "caption": "Earl Grey Creme Brulee!"},
       { "src": "images/San Diego/IMG_3187.jpg", "caption": "San Diego Museum of Modern Art"},
@@ -52,7 +82,7 @@
       { "src": "images/San Diego/IMG_3202.jpg", "caption": "Really good Thai food for La Jolla with really good curry."},
       { "src": "images/San Diego/IMG_3206.jpg", "caption": "I thought it was going to be 4 mile hike round trip..."},
       { "src": "images/San Diego/IMG_3218.jpg", "caption": "You somehow managed to drag me there and back all 8 miles."},
-      { "src": "images/San Diego/IMG_2040.jpg", "caption": "Our gingerbread truck with the Christmas truck!"}
+      { "src": "images/San Diego/IMG_2040.jpg", "caption": "Our gingerbread truck with the Christmas tree!"}
     ]
   }
 ]

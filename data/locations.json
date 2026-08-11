@@ -9,8 +9,8 @@
     "date": "2025-06",
     "note": "First time you came to my hometown and met my family!",
     "photos": [
-      { "src": "images/Rancho Cucamonga/IMG_0270.jpg", "caption": "Rancho Cucamonga Lunar New Year Festival"},
-      { "src": "images/Rancho Cucamonga/IMG_2267.jpg", "caption": "Bombastic Cinnamon rolls, but we made it with moldy cream cheese..."}
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415245/IMG_0270.jpg", "caption": "Rancho Cucamonga Lunar New Year Festival"},
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415241/IMG_2267.jpg", "caption": "Bombastic Cinnamon rolls, but we made it with moldy cream cheese..."}
     ]
   },
   {
@@ -23,11 +23,11 @@
     "date": "2026-05",
     "note": "We celebrated our first year anniversary and had our first Disneyland Trip!",
     "photos": [
-      { "src": "images/Anaheim/IMG_4911.jpg", "caption": "Lol no picture of actual anniversary dinner, but Salt & Straw desert!"},
-      { "src": "images/Anaheim/IMG_4953.jpg", "caption": "ROPE DROP SPACE MOUNTAIN!!"},
-      { "src": "images/Anaheim/IMG_4961.jpg", "caption": "Wall-E Drawing Class"},
-      { "src": "images/Anaheim/IMG_4965.jpg", "caption": "I forgot the name of this dish, but super good 8.5/10"},
-      { "src": "images/Anaheim/IMG_4481.jpg", "caption": "I think this is the first picture I took with your family :)"}
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415008/IMG_4911.jpg", "caption": "Lol no picture of actual anniversary dinner, but Salt & Straw desert!"},
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415008/IMG_4953.jpg", "caption": "ROPE DROP SPACE MOUNTAIN!!"},
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415009/IMG_4961.jpg", "caption": "Wall-E Drawing Class"},
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415008/IMG_4965.jpg", "caption": "I forgot the name of this dish, but super good 8.5/10"},
+      { "src": "https://res.cloudinary.com/jcgdxika/image/upload/v1786415008/IMG_4481.jpg", "caption": "I think this is the first picture I took with your family :)"}
     ]
   },
   {
